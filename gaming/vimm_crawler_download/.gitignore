@@ -1,0 +1,7 @@
+*7z
+*.txt
+*.bat
+*.pyc
+*.spec
+*.bin
+/build
